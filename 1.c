@@ -1,1 +1,2 @@
-include<iiiiddddiiisalfkjds
+#include<stdio.h>
+int main()
