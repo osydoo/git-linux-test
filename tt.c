@@ -8,4 +8,5 @@ int main(void)
 =======
 	printf("i'n doongwoo\n");
 >>>>>>> origin/test-yoon
+	printf("Are you dongwoo?");
 }		
